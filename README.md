@@ -1,2 +1,2 @@
 # Data-Visualization
-Data Visualization using SQLAlchemy ( A python SQL toolkit)
+Data Visualization using SQLAlchemy (A Python SQL toolkit)
